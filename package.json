@@ -1,0 +1,25 @@
+{
+  "name": "robs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bollinger-bands": "^3.0.2",
+    "data-forge": "^1.8.17",
+    "data-forge-fs": "0.0.9",
+    "data-forge-indicators": "^0.2.7",
+    "data-forge-plot": "^1.0.2",
+    "express": "^4.17.1",
+    "keltnerchannel": "^1.4.3",
+    "node-binance-api": "^0.12.5",
+    "nodemon": "^2.0.12",
+    "talib.js": "^0.1.0"
+  }
+}
