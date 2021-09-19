@@ -20,6 +20,8 @@
     "keltnerchannel": "^1.4.3",
     "node-binance-api": "^0.12.5",
     "nodemon": "^2.0.12",
-    "talib.js": "^0.1.0"
+    "talib-binding": "^1.0.2",
+    "talib.js": "^0.1.0",
+    "technicalindicators": "^3.1.0"
   }
 }
